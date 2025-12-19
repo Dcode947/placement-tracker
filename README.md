@@ -8,7 +8,7 @@ a C++ application to trrack placement preparation topics from diff. subjects lik
 -file handaling for data presistence
 
 --concepts used
--C++ strusture
+-C++ structure
 -file handaling
 -vectors
 -menu driven programing
